@@ -1,0 +1,320 @@
+Vue Film Times
+
+Title:Fast & Furious 9
+Film Length:2hrs 22mins
+Release:24 Jun 2021
+2021-06-24:['11:15 AM', '11:55 AM', '12:45 PM', '1:40 PM', '2:15 PM', '2:45 PM', '3:35 PM', '4:10 PM', '5:00 PM', '6:00 PM', '6:30 PM', '7:00 PM', '7:30 PM', '8:20 PM', '9:00 PM', '9:20 PM', '9:45 PM', '10:10 PM', '10:45 PM', '19 showings']
+2021-06-25:['2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '7 showings']
+2021-06-26:['11:30 AM', '2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '8 showings']
+2021-06-27:['11:30 AM', '2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '8 showings']
+2021-06-28:['2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '7 showings']
+2021-06-29:['2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '7 showings']
+2021-06-30:['2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '7 showings']
+2021-07-01:['2:45 PM', '4:10 PM', '5:00 PM', '6:00 PM', '7:30 PM', '8:20 PM', '9:20 PM', '7 showings']
+Vue Film Times
+
+Title:In The Heights
+Film Length:2hrs 23mins
+Release:18 Jun 2021
+2021-06-18:['1:50 PM', '2:55 PM', '4:15 PM', '6:35 PM', '8:00 PM', '9:05 PM', '6 showings']
+2021-06-19:['12:40 PM', '3:10 PM', '4:35 PM', '6:20 PM', '8:00 PM', '8:45 PM', '6 showings']
+2021-06-20:['11:30 AM', '1:50 PM', '3:10 PM', '5:00 PM', '7:00 PM', '8:00 PM', '6 showings']
+2021-06-21:['1:25 PM', '3:25 PM', '5:10 PM', '7:10 PM', '8:00 PM', '5 showings']
+2021-06-22:['1:00 PM', '2:00 PM', '4:00 PM', '5:25 PM', '7:05 PM', '8:00 PM', '6 showings']
+2021-06-23:['1:00 PM', '1:50 PM', '3:15 PM', '5:10 PM', '7:10 PM', '8:00 PM', '6 showings']
+2021-06-24:['11:40 AM', '12:30 PM', '3:15 PM', '8:00 PM', '8:45 PM', '5 showings']
+Vue Film Times
+
+Title:The Hitman's Wife's Bodyguard
+Film Length:1hr 56mins
+Release:Unknown
+2021-06-17:['4:00 PM', '6:20 PM', '8:15 PM', '3 showings']
+2021-06-18:['1:00 PM', '3:05 PM', '5:15 PM', '7:05 PM', '8:30 PM', '5 showings']
+2021-06-19:['1:40 PM', '3:50 PM', '5:30 PM', '8:30 PM', '4 showings']
+2021-06-20:['10:15 AM', '12:15 PM', '2:40 PM', '4:00 PM', '6:10 PM', '8:30 PM', '6 showings']
+2021-06-21:['1:00 PM', '2:25 PM', '4:15 PM', '6:30 PM', '8:30 PM', '5 showings']
+2021-06-22:['1:35 PM', '3:35 PM', '6:45 PM', '8:30 PM', '4 showings']
+2021-06-23:['1:35 PM', '3:00 PM', '6:20 PM', '8:30 PM', '4 showings']
+2021-06-24:['11:25 AM', '2:00 PM', '6:15 PM', '8:50 PM', '4 showings']
+Vue Film Times
+
+Title:A Quiet Place Part II
+Film Length:1hr 37mins
+Release:Unknown
+2021-06-17:['4:35 PM', '6:40 PM', '8:00 PM', '8:35 PM', '9:10 PM', '5 showings']
+2021-06-18:['1:00 PM', '2:30 PM', '3:25 PM', '4:30 PM', '6:55 PM', '9:00 PM', '9:45 PM', '7 showings']
+2021-06-19:['12:45 PM', '2:55 PM', '5:05 PM', '6:45 PM', '8:10 PM', '9:00 PM', '9:35 PM', '7 showings']
+2021-06-20:['1:20 PM', '3:35 PM', '5:40 PM', '7:55 PM', '4 showings']
+2021-06-21:['1:10 PM', '1:55 PM', '3:55 PM', '7:20 PM', '9:10 PM', '5 showings']
+2021-06-22:['1:00 PM', '3:20 PM', '6:20 PM', '8:15 PM', '9:10 PM', '5 showings']
+2021-06-23:['1:05 PM', '3:25 PM', '5:25 PM', '6:55 PM', '7:30 PM', '8:15 PM', '9:05 PM', '7 showings']
+2021-06-24:['11:00 AM', '1:25 PM', '3:55 PM', '6:30 PM', '4 showings']
+Vue Film Times
+
+Title:Peter Rabbit 2
+Film Length:1hr 33mins
+Release:Unknown
+2021-06-17:['3:20 PM', '4:55 PM', '5:40 PM', '6:25 PM', '4 showings']
+2021-06-18:['2:00 PM', '4:50 PM', '5:45 PM', '6:45 PM', '4 showings']
+2021-06-19:['10:25 AM', '11:40 AM', '12:25 PM', '1:15 PM', '2:15 PM', '2:45 PM', '3:35 PM', '4:25 PM', '6:30 PM', '9 showings']
+2021-06-20:['11:05 AM', '1:05 PM', '2:05 PM', '3:20 PM', '5:25 PM', '5 showings']
+2021-06-21:['1:00 PM', '1:40 PM', '3:30 PM', '4:55 PM', '6:15 PM', '5 showings']
+2021-06-22:['2:25 PM', '5:40 PM', '2 showings']
+2021-06-23:['1:00 PM', '4:55 PM', '5:45 PM', '3 showings']
+2021-06-24:['11:00 AM', '4:40 PM', '2 showings']
+Vue Film Times
+
+Title:Top Gun (1986) 4K
+Film Length:1hr 51mins
+Release:18 Jun 2021
+2021-06-18:['6:00 PM', '1 showings']
+2021-06-19:['8:00 PM', '1 showings']
+2021-06-20:['6:00 PM', '1 showings']
+2021-06-21:['6:00 PM', '1 showings']
+2021-06-22:['8:00 PM', '1 showings']
+2021-06-23:['6:00 PM', '1 showings']
+2021-06-24:['2:00 PM', '1 showings']
+Vue Film Times
+
+Title:Moulin Rouge
+Film Length:2hrs 8mins
+Release:18 Jun 2021
+2021-06-18:['8:00 PM', '1 showings']
+2021-06-19:['6:00 PM', '1 showings']
+2021-06-20:['3:00 PM', '1 showings']
+2021-06-21:['8:00 PM', '1 showings']
+2021-06-22:['6:00 PM', '1 showings']
+2021-06-23:['3:00 PM', '1 showings']
+2021-06-24:['1:00 PM', '1 showings']
+Vue Film Times
+
+Title:Monster Hunter
+Film Length:1hr 44mins
+Release:18 Jun 2021
+2021-06-18:['1:40 PM', '4:10 PM', '6:30 PM', '8:55 PM', '4 showings']
+2021-06-19:['11:35 AM', '2:00 PM', '5:25 PM', '3 showings']
+2021-06-20:['11:20 AM', '1:30 PM', '4:25 PM', '7:45 PM', '4 showings']
+2021-06-21:['1:15 PM', '6:40 PM', '9:00 PM', '3 showings']
+2021-06-22:['1:15 PM', '4:15 PM', '7:45 PM', '3 showings']
+2021-06-23:['4:15 PM', '6:45 PM', '8:35 PM', '3 showings']
+2021-06-24:['11:30 AM', '3:50 PM', '5:45 PM', '3 showings']
+Vue Film Times
+
+Title:The Conjuring: The Devil Made Me Do It
+Film Length:1hr 52mins
+Release:Unknown
+2021-06-17:['3:45 PM', '7:10 PM', '7:45 PM', '8:30 PM', '4 showings']
+2021-06-18:['1:20 PM', '3:55 PM', '6:10 PM', '7:20 PM', '8:35 PM', '9:30 PM', '6 showings']
+2021-06-19:['2:30 PM', '5:55 PM', '7:10 PM', '9:10 PM', '9:50 PM', '5 showings']
+2021-06-20:['2:20 PM', '5:00 PM', '6:30 PM', '8:15 PM', '4 showings']
+2021-06-21:['1:40 PM', '4:30 PM', '6:15 PM', '8:15 PM', '8:50 PM', '5 showings']
+2021-06-22:['2:20 PM', '5:10 PM', '7:25 PM', '8:40 PM', '4 showings']
+2021-06-23:['3:40 PM', '6:30 PM', '7:45 PM', '8:50 PM', '4 showings']
+2021-06-24:['11:40 AM', '5:25 PM', '7:15 PM', '9:50 PM', '4 showings']
+Vue Film Times
+
+Title:Cruella
+Film Length:2hrs 14mins
+Release:Unknown
+2021-06-17:['5:25 PM', '1 showings']
+2021-06-18:['1:10 PM', '5:30 PM', '2 showings']
+2021-06-19:['11:55 AM', '2:15 PM', '4:45 PM', '3 showings']
+2021-06-20:['12:35 PM', '2:25 PM', '2 showings']
+2021-06-21:['2:00 PM', '4:50 PM', '7:45 PM', '3 showings']
+2021-06-22:['2:10 PM', '4:55 PM', '2 showings']
+2021-06-23:['2:10 PM', '1 showings']
+Vue Film Times
+
+Title:The Gruffalo and Zog
+Film Length:1hr 0min
+Release:19 Jun 2021
+2021-06-18:['1:20 PM', '1 showings']
+2021-06-19:['10:30 AM', '12:30 PM', '2 showings']
+2021-06-20:['10:30 AM', '12:25 PM', '2 showings']
+Vue Film Times
+
+Title:Dogtanian And The Three Muskehounds
+Film Length:1hr 39mins
+Release:25 Jun 2021
+2021-06-19:['10:10 AM', '12:15 PM', '2:05 PM', '3 showings']
+2021-06-20:['10:50 AM', '12:50 PM', '3:50 PM', '3 showings']
+Vue Film Times
+
+Title:Nobody
+Film Length:1hr 32mins
+Release:Unknown
+2021-06-17:['4:20 PM', '6:55 PM', '9:00 PM', '3 showings']
+2021-06-18:['2:15 PM', '4:20 PM', '2 showings']
+2021-06-19:['7:45 PM', '10:35 PM', '2 showings']
+2021-06-20:['6:25 PM', '8:40 PM', '2 showings']
+2021-06-21:['3:15 PM', '1 showings']
+2021-06-22:['3:45 PM', '8:25 PM', '2 showings']
+2021-06-23:['1:20 PM', '4:00 PM', '6:15 PM', '9:15 PM', '4 showings']
+Vue Film Times
+
+Title:The Father
+Film Length:1hr 36mins
+Release:Unknown
+2021-06-17:['3:35 PM', '5:55 PM', '7:30 PM', '8:40 PM', '4 showings']
+2021-06-18:['3:40 PM', '1 showings']
+2021-06-19:['4:10 PM', '1 showings']
+2021-06-20:['11:45 AM', '1 showings']
+2021-06-21:['3:50 PM', '1 showings']
+2021-06-22:['1:45 PM', '1 showings']
+2021-06-23:['2:20 PM', '1 showings']
+Vue Film Times
+
+Title:Demon Slayer: Mugen Train
+Film Length:1hr 57mins
+Release:Unknown
+2021-06-17:['4:45 PM', '1 showings']
+2021-06-19:['11:05 AM', '1 showings']
+2021-06-20:['5:15 PM', '8:15 PM', '2 showings']
+2021-06-21:['2:40 PM', '1 showings']
+2021-06-22:['4:40 PM', '1 showings']
+2021-06-23:['2:35 PM', '1 showings']
+Vue Film Times
+
+Title:Spiral: From The Book Of Saw
+Film Length:1hr 33mins
+Release:Unknown
+2021-06-18:['9:35 PM', '1 showings']
+2021-06-19:['9:25 PM', '1 showings']
+2021-06-20:['5:55 PM', '9:10 PM', '2 showings']
+2021-06-21:['5:45 PM', '8:40 PM', '2 showings']
+2021-06-22:['1:20 PM', '4:05 PM', '6:00 PM', '9:00 PM', '4 showings']
+2021-06-23:['9:15 PM', '1 showings']
+Vue Film Times
+
+Title:Godzilla Vs. Kong
+Film Length:1hr 53mins
+Release:Unknown
+2021-06-17:['5:10 PM', '1 showings']
+2021-06-19:['10:40 AM', '1 showings']
+2021-06-20:['8:55 PM', '1 showings']
+Vue Film Times
+
+Title:Maya The Bee 3: The Golden Orb
+Film Length:1hr 28mins
+Release:Unknown
+2021-06-19:['10:00 AM', '1 showings']
+2021-06-20:['10:20 AM', '1 showings']
+2021-06-21:['5:30 PM', '1 showings']
+2021-06-23:['4:40 PM', '1 showings']
+Vue Film Times
+
+Title:Dream Horse
+Film Length:1hr 53mins
+Release:Unknown
+2021-06-20:['11:35 AM', '1 showings']
+2021-06-22:['2:40 PM', '1 showings']
+Vue Film Times
+
+Title:Tom & Jerry The Movie
+Film Length:1hr 38mins
+Release:Unknown
+2021-06-19:['11:20 AM', '1 showings']
+2021-06-20:['10:35 AM', '1 showings']
+Vue Film Times
+
+Title:Those Who Wish Me Dead
+Film Length:1hr 40mins
+Release:Unknown
+2021-06-19:['10:35 PM', '1 showings']
+2021-06-20:['8:45 PM', '1 showings']
+Vue Film Times
+
+Title:Hey Duggee at the Movies
+Film Length:1hr 0min
+Release:Unknown
+2021-06-19:['10:00 AM', '1 showings']
+2021-06-20:['10:00 AM', '1 showings']
+2021-06-26:['10:00 AM', '1 showings']
+2021-06-27:['10:00 AM', '10:15 AM', '2 showings']
+Vue Film Times
+
+Title:Felix And The Hidden Treasure
+Film Length:1hr 30mins
+Release:Unknown
+2021-06-19:['10:00 AM', '1 showings']
+2021-06-20:['10:00 AM', '1 showings']
+Vue Film Times
+
+Title:The Unholy
+Film Length:1hr 39mins
+Release:Unknown
+2021-06-17:['8:45 PM', '1 showings']
+2021-06-19:['10:05 PM', '1 showings']
+Vue Film Times
+
+Title:Fargo (25th Anniversary)
+Film Length:1hr 38mins
+Release:Unknown
+2021-06-17:['6:00 PM', '1 showings']
+Vue Film Times
+
+Title:Andre Rieu's 2021 Summer Concert: Together Again
+Film Length:2hrs 20mins
+Release:28 Aug 2021
+2021-08-28:['7:00 PM', '1 showings']
+2021-08-29:['3:00 PM', '1 showings']
+2021-08-30:['6:30 PM', '1 showings']
+2021-08-31:['3:00 PM', '1 showings']
+2021-09-01:['6:30 PM', '1 showings']
+2021-09-02:['3:00 PM', '1 showings']
+Vue Film Times
+
+Title:Bing's Animal Stories
+Film Length:1hr 10mins
+Release:2 Jul 2021
+2021-07-03:['10:30 AM', '1 showings']
+2021-07-04:['10:30 AM', '1 showings']
+Vue Film Times
+
+Title:Bon Jovi From Encore Nights
+Film Length:1hr 57mins
+Release:Unknown
+2021-06-29:['7:00 PM', '1 showings']
+Vue Film Times
+
+Title:Chicago
+Film Length:1hr 53mins
+Release:Unknown
+2021-06-17:['3:15 PM', '1 showings']
+Vue Film Times
+
+Title:Michael Ball & Alfie Boe - Back Together
+Film Length:2hrs 27mins
+Release:1 Jul 2021
+2021-07-01:['7:00 PM', '1 showings']
+Vue Film Times
+
+Title:Mick Fleetwood & Friends
+Film Length:2hrs 20mins
+Release:7 Sep 2021
+2021-09-07:['7:30 PM', '1 showings']
+2021-09-12:['2:00 PM', '1 showings']
+Vue Film Times
+
+Title:Some Like It Hot
+Film Length:2hrs 1min
+Release:25 Jun 2021
+2021-06-25:['3:00 PM', '1 showings']
+2021-06-26:['3:00 PM', '1 showings']
+2021-06-27:['6:00 PM', '1 showings']
+2021-06-28:['7:30 PM', '1 showings']
+2021-06-29:['3:00 PM', '1 showings']
+2021-06-30:['7:30 PM', '1 showings']
+2021-07-01:['6:00 PM', '1 showings']
+Vue Film Times
+
+Title:The Sparks Brothers + Live Q&A with Edgar Wright
+Film Length:Unknown
+Release:30 Jul 2021
+2021-07-29:['6:30 PM', '1 showings']
+Vue Film Times
+
+Title:Violet Evergarden: The Movie
+Film Length:2hrs 20mins
+Release:1 Jul 2021
+2021-07-01:['7:00 PM', '1 showings']

@@ -1,0 +1,98 @@
+Cineworld Film Times for the weekend
+
+Title:Cruella
+Length: |133 mins
+Friday:[' 12:55 ', ' 14:30 ', ' 16:10 ', ' 17:40 ', ' 19:30 ', '5 showings']
+Saturday:[' 11:10 ', ' 12:55 ', ' 14:30 ', ' 16:10 ', ' 17:40 ', ' 19:30 ', '6 showings']
+Sunday:[' 11:10 ', ' 12:55 ', ' 14:30 ', ' 16:10 ', ' 17:40 ', ' 19:30 ', '6 showings']
+
+Title:Demon Slayer : Mugen Train [Subtitled]
+Length: |117 mins
+Friday:[' 16:05 ', '1 showings']
+
+Title:Dream Horse
+Length: |113 mins
+Friday:[' 13:40 ', '1 showings']
+
+Title:Godzilla Vs Kong
+Length: |113 mins
+Friday:[' 13:50 ', ' 16:50 ', ' 20:00 ', '3 showings']
+Saturday:[' 14:25 ', ' 20:00 ', '2 showings']
+Sunday:[' 10:45 ', ' 13:50 ', ' 16:50 ', ' 20:00 ', '4 showings']
+
+Title:Hitman's Wife's Bodyguard
+Length: |100 mins
+Friday:[' 13:00 ', ' 18:20 ', ' 14:00 ', ' 20:10 ', ' 15:50 ', ' 17:30 ', ' 19:10 ', ' 20:00 ', ' 21:10 ', ' 21:50 ', '10 showings']
+Saturday:[' 10:30 ', ' 15:50 ', ' 21:10 ', ' 11:50 ', ' 13:00 ', ' 14:00 ', ' 14:30 ', ' 17:15 ', ' 17:20 ', ' 18:20 ', ' 19:10 ', ' 20:00 ', ' 20:10 ', ' 21:50 ', '14 showings']
+Sunday:[' 10:25 ', ' 13:00 ', ' 18:20 ', ' 14:00 ', ' 20:10 ', ' 14:30 ', ' 17:15 ', ' 20:00 ', ' 15:50 ', ' 17:30 ', ' 19:10 ', ' 21:10 ', '12 showings']
+
+Title:In The Earth
+Length: |107 mins
+Friday:[' 12:30 ', ' 15:10 ', ' 20:45 ', '3 showings']
+Saturday:[' 20:45 ', '1 showings']
+Sunday:[' 20:45 ', '1 showings']
+
+Title:In The Heights
+Length: |143 mins
+Friday:[' 12:15 ', ' 14:10 ', ' 15:45 ', ' 18:00 ', ' 19:15 ', ' 20:15 ', ' 21:20 ', ' 16:45 ', ' 19:00 ', '9 showings']
+Saturday:[' 12:15 ', ' 15:45 ', ' 16:45 ', ' 18:00 ', ' 19:15 ', ' 21:20 ', ' 14:10 ', ' 20:15 ', ' 15:30 ', ' 19:00 ', '10 showings']
+Sunday:[' 10:40 ', ' 16:45 ', ' 12:15 ', ' 15:45 ', ' 18:15 ', ' 19:15 ', ' 20:15 ', ' 14:10 ', ' 15:30 ', ' 19:00 ', '10 showings']
+
+Title:Monster Hunter
+Length: |103 mins
+Friday:[' 13:10 ', ' 18:30 ', ' 22:20 ', ' 15:40 ', ' 21:00 ', '5 showings']
+Saturday:[' 11:30 ', ' 17:30 ', ' 13:10 ', ' 18:30 ', ' 15:40 ', ' 21:00 ', ' 22:20 ', '7 showings']
+Sunday:[' 13:10 ', ' 18:30 ', ' 15:40 ', ' 21:00 ', '4 showings']
+
+Title:Mortal Kombat
+Length: |110 mins
+Friday:[' 13:15 ', '1 showings']
+
+Title:Nobody
+Length: |92 mins
+Friday:[' 12:40 ', ' 15:20 ', ' 17:50 ', ' 20:40 ', ' 22:10 ', '5 showings']
+Saturday:[' 12:40 ', ' 15:20 ', ' 17:50 ', ' 20:40 ', ' 22:15 ', '5 showings']
+Sunday:[' 12:40 ', ' 15:20 ', ' 17:50 ', ' 20:40 ', '4 showings']
+
+Title:Peter Rabbit 2
+Length: |92 mins
+Friday:[' 12:50 ', ' 16:00 ', ' 16:40 ', ' 18:40 ', '4 showings']
+Saturday:[' 10:50 ', ' 11:40 ', ' 12:30 ', ' 13:20 ', ' 14:15 ', ' 15:10 ', ' 16:00 ', ' 16:40 ', ' 18:40 ', '9 showings']
+Sunday:[' 10:50 ', ' 11:40 ', ' 12:30 ', ' 13:20 ', ' 14:15 ', ' 15:10 ', ' 16:00 ', ' 16:40 ', ' 18:40 ', '9 showings']
+
+Title:Spiral : From The Book Of Saw
+Length: |93 mins
+Friday:[' 21:15 ', '1 showings']
+Saturday:[' 21:15 ', '1 showings']
+Sunday:[' 21:15 ', '1 showings']
+
+Title:The Conjuring : The Devil Made Me Do It
+Length: |120 mins
+Friday:[' 12:10 ', ' 14:50 ', ' 17:45 ', ' 20:30 ', '4 showings']
+Saturday:[' 11:55 ', ' 14:50 ', ' 17:45 ', ' 20:30 ', '4 showings']
+Sunday:[' 11:55 ', ' 14:50 ', ' 17:45 ', ' 20:30 ', '4 showings']
+
+Title:The Father
+Length: |97 mins
+Friday:[' 14:20 ', ' 17:00 ', ' 19:40 ', '3 showings']
+Saturday:[' 11:20 ', ' 14:20 ', ' 17:00 ', ' 19:40 ', '4 showings']
+Sunday:[' 11:45 ', ' 14:20 ', ' 17:00 ', ' 19:40 ', '4 showings']
+
+Title:The Reason I Jump
+Length: |82 mins
+Friday:[' 12:20 ', ' 15:00 ', ' 17:25 ', ' 19:45 ', '4 showings']
+Saturday:[' 15:00 ', ' 17:25 ', ' 19:45 ', '3 showings']
+Sunday:[' 15:00 ', ' 17:25 ', ' 19:45 ', '3 showings']
+
+Title:Another Round : Unlimited Screening
+Length: |117 mins
+Friday:['0 showings']
+Saturday:['0 showings']
+Sunday:['0 showings']
+
+Title:Autism Friendly Screening Dogtanian And The Three Muskehounds
+Length: |84 mins
+Friday:['0 showings']
+Saturday:['0 showings']
+Sunday:['0 showings']
+
